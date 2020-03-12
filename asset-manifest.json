@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/drolewski/static/css/main.fe956f08.chunk.css",
-    "main.js": "/drolewski/static/js/main.19d0d87a.chunk.js",
-    "main.js.map": "/drolewski/static/js/main.19d0d87a.chunk.js.map",
+    "main.css": "/drolewski/static/css/main.7cc27c12.chunk.css",
+    "main.js": "/drolewski/static/js/main.c2ec04fc.chunk.js",
+    "main.js.map": "/drolewski/static/js/main.c2ec04fc.chunk.js.map",
     "runtime-main.js": "/drolewski/static/js/runtime-main.3044f001.js",
     "runtime-main.js.map": "/drolewski/static/js/runtime-main.3044f001.js.map",
-    "static/js/2.8d8ae1e8.chunk.js": "/drolewski/static/js/2.8d8ae1e8.chunk.js",
-    "static/js/2.8d8ae1e8.chunk.js.map": "/drolewski/static/js/2.8d8ae1e8.chunk.js.map",
+    "static/js/2.5b7e0f6d.chunk.js": "/drolewski/static/js/2.5b7e0f6d.chunk.js",
+    "static/js/2.5b7e0f6d.chunk.js.map": "/drolewski/static/js/2.5b7e0f6d.chunk.js.map",
     "index.html": "/drolewski/index.html",
-    "precache-manifest.d29a9ed216d644c201fe6d101fe730a3.js": "/drolewski/precache-manifest.d29a9ed216d644c201fe6d101fe730a3.js",
+    "precache-manifest.addc011149ce68cb19838571d6289d3c.js": "/drolewski/precache-manifest.addc011149ce68cb19838571d6289d3c.js",
     "service-worker.js": "/drolewski/service-worker.js",
-    "static/css/main.fe956f08.chunk.css.map": "/drolewski/static/css/main.fe956f08.chunk.css.map",
-    "static/js/2.8d8ae1e8.chunk.js.LICENSE.txt": "/drolewski/static/js/2.8d8ae1e8.chunk.js.LICENSE.txt"
+    "static/css/main.7cc27c12.chunk.css.map": "/drolewski/static/css/main.7cc27c12.chunk.css.map",
+    "static/js/2.5b7e0f6d.chunk.js.LICENSE.txt": "/drolewski/static/js/2.5b7e0f6d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3044f001.js",
-    "static/js/2.8d8ae1e8.chunk.js",
-    "static/css/main.fe956f08.chunk.css",
-    "static/js/main.19d0d87a.chunk.js"
+    "static/js/2.5b7e0f6d.chunk.js",
+    "static/css/main.7cc27c12.chunk.css",
+    "static/js/main.c2ec04fc.chunk.js"
   ]
 }
