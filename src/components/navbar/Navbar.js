@@ -16,7 +16,7 @@ class NavBar extends React.Component{
                     <a href="http://www.facebook.com/dominik.rolewski" target="_blank">
                         <div class="icon icon-facebook"></div>
                     </a>
-                    <a href="mailto::drolewski@gmail.com">
+                    <a href="mailto:drolewski@gmail.com">
                         <div class="icon icon-last icon-email"></div>
                     </a>
                 </div>
